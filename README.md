@@ -18,14 +18,4 @@
 
 ![Example screenshot](./img/paymentSuccess.png)
 
-## Technologies
-* HTML5
-* CSS3
-* Javascript
-* jQuery
 
-## Status
-> Project - Completed
-#� �-�G�R�I�P�F�E�B�R�U�A�R�Y�2�3�-�p�a�y�m�e�n�t�-�i�n�t�e�g�r�a�t�i�o�n�-�m�e�t�h�o�d�
-�
-�
